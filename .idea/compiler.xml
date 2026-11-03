@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="FSync.app" target="25" />
+      <module name="FSync.core.designsystem" target="25" />
+      <module name="FSync.data" target="25" />
+      <module name="FSync.domain" target="25" />
+      <module name="FSync.feature.home" target="25" />
+      <module name="FSync.feature.pairing" target="25" />
+      <module name="FSync.feature.settings" target="25" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
